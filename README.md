@@ -17,8 +17,8 @@ p {text-align: center;}
         	 <p>$ nano filename</p> <br>
         	 <p>$ vi filename </p><br>
 --> To Listout the files<br>
-        	<p>$ ls</p><br>
-        	<p>$ ls -ltr</p> <br>
+        	<p>$ ls<br>
+        	$ ls -ltr</p> <br>
 --> To Rename the  file<br>
         	,p>$ mv presentfilename newfilename</p><br>
 --> To Move the file one dir to another dir<br>
