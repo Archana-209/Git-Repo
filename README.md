@@ -2,7 +2,10 @@
 # Creating the repo for Linux Commands
 <html>
 <style>
-p {text-align: center;}
+	p{
+		text-align:"center";
+		
+	}
 </style>
                 		               <p>Linux-Commands</p>
 
