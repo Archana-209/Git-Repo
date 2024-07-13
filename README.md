@@ -1,24 +1,25 @@
 # Git-Repo
 Creating the repo for Linux Commands
+p {text-align: center;}
 
-                		                   Linux-Commands
+                		               <p>Linux-Commands</p>
 
 --> To create the Folder or Directory <br>
-	        $ mkdir foldername <br>
+	        <p>$ mkdir foldername </p><br>
 --> To Enter the Directory/Change the Directory<br>
-        	$ cd Foldername<br>
+        	 <p>$ cd Foldername</p><br>
 --> To Comeout from the Directory<br>
-		$ cd ..<br>
+		 <p>$ cd ..</p><br>
 --> To create the file <br>
-        	$ touch filename <br>
-        	$ cat > filename <br>
+        	 <p>$ touch filename</p><br>
+        	 <p>$ cat > filename</p> <br>
 --> To Edit the file <br>
-        	$ nano filename <br>
-        	$ vi filename <br>
+        	 <p>$ nano filename</p> <br>
+        	 <p>$ vi filename </p><br>
 --> To Listout the files<br>
-        	$ ls<br>
-        	$ ls -ltr <br>
+        	<p>$ ls</p><br>
+        	<p>$ ls -ltr</p> <br>
 --> To Rename the  file<br>
-        	$ mv presentfilename newfilename<br>
+        	,p>$ mv presentfilename newfilename</p><br>
 --> To Move the file one dir to another dir<br>
-        	$ mv filename dirctorypath
+        	<p>$ mv filename dirctorypath</p>
