@@ -3,10 +3,10 @@ Creating the repo for Linux Commands
 
                                    Linux-Commands
 
---> To create the Folder or Directory
-        $ mkdir foldername
---> To Enter the Directory/Change the Directory
-        $ cd Foldername
+--> To create the Folder or Directory <br>
+        $ mkdir foldername <br>
+--> To Enter the Directory/Change the Directory<br>
+        $ cd Foldername<br>
 --> To Comeout from the Directory
         $ cd ..
 --> To create the file
