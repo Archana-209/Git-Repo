@@ -25,3 +25,4 @@ p {text-align: center;}
         	,p>$ mv presentfilename newfilename</p><br>
 --> To Move the file one dir to another dir<br>
         	<p>$ mv filename dirctorypath</p>
+</html>
