@@ -1,5 +1,5 @@
 # Git-Repo
-Creating the repo for Linux Commands
+# Creating the repo for Linux Commands
 <html>
 <style>
 p {text-align: center;}
