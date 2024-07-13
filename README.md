@@ -1,7 +1,9 @@
 # Git-Repo
 Creating the repo for Linux Commands
+<html>
+<style>
 p {text-align: center;}
-
+</style>
                 		               <p>Linux-Commands</p>
 
 --> To create the Folder or Directory <br>
